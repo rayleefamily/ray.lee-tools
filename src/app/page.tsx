@@ -20,6 +20,15 @@ const TOOLS = [
     linkColor: "text-red-600 dark:text-red-400",
   },
   {
+    href: "/prize",
+    icon: "🎁",
+    title: "幸運抽獎",
+    description: "點一下抽獎，30% 機率中獎，看看你的手氣。",
+    badgeBg: "bg-violet-100 dark:bg-violet-900/40",
+    border: "border-violet-100 dark:border-violet-900/40",
+    linkColor: "text-violet-600 dark:text-violet-400",
+  },
+  {
     href: "/fortune",
     icon: "🎋",
     title: "好運抽籤",
